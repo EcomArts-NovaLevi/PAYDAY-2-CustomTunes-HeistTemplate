@@ -1,4 +1,4 @@
 {
-    "menu_jukebox_mgrrey" : "Rules of Nature",
-    "menu_jukebox_screen_mgrrey" : "Rules of Nature"
+    "menu_jukebox_newsongid" : "Song Name",
+    "menu_jukebox_screen_newsongid" : "Song Name"
 }
