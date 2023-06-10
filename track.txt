@@ -1,7 +1,7 @@
 {
-    "id": "custom_ost_mgrrey",
+    "id": "custom_ost_newsongid",
     "volume": 0.8,
-    "name": "Rules of Nature",
+    "name": "Song Name",
     "fade_duration": 0.1,
     "events": {
         "setup": {
