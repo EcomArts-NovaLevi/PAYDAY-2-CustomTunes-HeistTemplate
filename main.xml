@@ -1,6 +1,6 @@
-<table name="Rules of Nature" directory="xd">
+<table name="Song Name" directory="xd">
     <Localization directory="loc" default="en.txt"/>
-    <HeistMusic id="mgrrey" directory="sounds">
+    <HeistMusic id="newsongid" directory="sounds">
         <event name="setup" source="setup.ogg"/>
         <event name="anticipation" source="buildup.ogg"/>
         <event name="assault" start_source="assault_start.ogg" source="assault_loop.ogg"/>
