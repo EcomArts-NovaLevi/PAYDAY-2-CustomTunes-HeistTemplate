@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_mgrrey" : "Rules of Nature",
+    "menu_jukebox_screen_mgrrey" : "Rules of Nature"
+}

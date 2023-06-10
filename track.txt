@@ -1,0 +1,24 @@
+{
+    "id": "custom_ost_mgrrey",
+    "volume": 0.8,
+    "name": "Rules of Nature",
+    "fade_duration": 0.1,
+    "events": {
+        "setup": {
+            "file": "setup.ogg",
+
+            "volume": 0.7
+        },
+        "control" : {
+            "start_file": "control_start.ogg",
+            "file": "control_loop.ogg"
+        },
+        "buildup": {
+            "file": "buildup.ogg"
+        },
+        "assault" : {
+            "start_file": "assault_start.ogg",
+            "file": "assault_loop.ogg"
+        }
+    }
+}
